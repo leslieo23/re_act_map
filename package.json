@@ -1,0 +1,19 @@
+{
+  "name": "re_act_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslieo23/re_act_map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leslieo23/re_act_map/issues"
+  },
+  "homepage": "https://github.com/leslieo23/re_act_map#readme"
+}
